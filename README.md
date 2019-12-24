@@ -1,4 +1,5 @@
 # @supersimplethings/resize-image-in-browser
+![npm (scoped)](https://img.shields.io/npm/v/@supersimplethings/resize-image-in-browser)
 
 > Things should be simple to use
 
